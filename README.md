@@ -1,1 +1,2 @@
 # Running-Jaxon
+En La Clase 12, Hemos Aprendido Cómo Indentar El Código Y Usar La Consola Para Mostrar La Posición En Vivo De Un Objeto. Usando La Propiedad Visible, Hicimos Invisible El Suelo. En Este Proyecto, Aplicarás Lo Que Has Aprendido Creando Un Fondo De Movimiento Vertical Y Un Sprite De Niño Animado. Crearás Dos Límites Invisibles Izquierdo Y Derecho Y El Niño Debe Chocar Con Estos Límites Invisibles. Además, Haz Que El Niño Se Mueva Hacia La Izquierda Y Hacia La Derecha Con El Mouse.
